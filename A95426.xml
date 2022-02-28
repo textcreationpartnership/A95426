@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two great fights in Ireland, on Sunday, Munday, Tuesday, &amp; Wednesday last, between the Marq. of Ormonds forces, and the Lord Lieut. Cromwels, at the two strong garrisons of Tredah and Dundalke; shewing the manner how they four severall times sallyed out upon the Parl. forces beat up the guards, the manner of their repulie [sic], the number killed &amp; taken prisoners, together with 6 pieces of ordnance, and great store of arms &amp; ammunition. As also, the declaration of the great engineer Col. Ashton, to fight under the banner of loyalty, in preservation of the town of Tredah for Charles the II, and his new engine of warre for the cutting off both legs and arms of any that shall oppose him.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95426</idno>
+            <idno type="STC">Wing T3448</idno>
+            <idno type="STC">Thomason E574_3</idno>
+            <idno type="STC">ESTC R206269</idno>
+            <idno type="EEBO-CITATION">99865441</idno>
+            <idno type="PROQUEST">99865441</idno>
+            <idno type="VID">165410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95426)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165410)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 88:E574[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two great fights in Ireland, on Sunday, Munday, Tuesday, &amp; Wednesday last, between the Marq. of Ormonds forces, and the Lord Lieut. Cromwels, at the two strong garrisons of Tredah and Dundalke; shewing the manner how they four severall times sallyed out upon the Parl. forces beat up the guards, the manner of their repulie [sic], the number killed &amp; taken prisoners, together with 6 pieces of ordnance, and great store of arms &amp; ammunition. As also, the declaration of the great engineer Col. Ashton, to fight under the banner of loyalty, in preservation of the town of Tredah for Charles the II, and his new engine of warre for the cutting off both legs and arms of any that shall oppose him.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September]: 18 1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver --  1599-1658 --  Early works to 1800.</term>
+               <term>Ormonde, James Butler, --  Duke of, 1610-1688 --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165410:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <p>TWO GREAT FIGHTS In <hi>IRELAND,</hi> On <hi>Sunday, Munday, Tueſday,</hi> &amp; <hi>Wedneſday</hi> laſt, between the Marq. of <hi>Ormonds</hi> Forces, and the Lord Lieut. <hi>Cromwels,</hi> at the two ſtrong Garriſons of <hi>Tredah</hi> and <hi>Dundalke;</hi> ſhewing the manner how they four ſeverall times ſallyed out upon the Parl. forces beat up the Guards, the manner of their repulſe, the num<g ref="char:EOLhyphen"/>ber killed &amp; taken priſoners, together with 6 pieces of Ordnance, and great ſtore of Arms &amp; Ammunition. As alſo, the Declaration of the great Engineer Col. <hi>Aſhton,</hi> to fight under the Banner of loyalty, in preſervation of the town of <hi>Tredah</hi> for <hi>Charles</hi> the II, and his new Engine of Warre for the cutting off both Legs and Arms of any that ſhall oppoſe him.</p>
+            <p>
+               <figure/>
+            </p>
+            <pb facs="tcp:165410:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="letters">
+            <pb facs="tcp:165410:3"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="2" facs="tcp:165410:3"/>
+            <!-- PDF PAGE 69 -->
+            <head>TWO FIGHTS IN IRELAND <hi>ON Sunday, Munday, Tueſday,</hi> and <hi>Wedneſday</hi> laſt, between the Forces commanded by the Marq. of <hi>Ormond,</hi> and the Lord Lieutenant <hi>Cromwell.</hi>
+            </head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">U</seg>Pon the Lord Governour <hi>Cromwels</hi> neer approach with his Army, to the fron<g ref="char:EOLhyphen"/>tier and impregnable Garriſon of <hi>Tre<g ref="char:EOLhyphen"/>dah,</hi> his Lordſhip ſent a Summons to the Governour Colonell <hi>Aſhton,</hi> for
+<pb n="2" facs="tcp:165410:4"/>
+                  <!-- PDF PAGE 70 -->the ſurrender thereof to the power and obedience of the Parliament of <hi>England,</hi> but the Governour retur<g ref="char:EOLhyphen"/>ned a very reſolute and peremptory Anſwer, intima<g ref="char:EOLhyphen"/>ting, <hi>That he abhord with his ſoul the brand of perfidi<g ref="char:EOLhyphen"/>ouſneſse, that he was reſolved to diſplay the banner of loy<g ref="char:EOLhyphen"/>alty, and to stand in the defence and preſervation of the trust repoſed in him to the last man, &amp;c.</hi> Whereupon, the Lord Governour immediatly called a Councel of Officers, for the well-ordering of the Army, to the end the work might appear more facile and eaſie, and in<g ref="char:EOLhyphen"/>deed ſo excellent were the debates and conſultations thereof, that their Deſign was lookt upon with great admiration.</p>
+               <p>And upon Saturday morning being the 8. of this in<g ref="char:EOLhyphen"/>ſtant <hi>Septemb.</hi> twelve thouſand Horſe, Foot, and Dra<g ref="char:EOLhyphen"/>goons, marched up in <hi>battell-array,</hi> with Trumpets ſounding, and Drums beating againſt the Town, where they ſoon encamped themſelves, cutting off divers paſ<g ref="char:EOLhyphen"/>ſes, &amp; uſing the rareſt ſtratagems of war, for ſtreight<g ref="char:EOLhyphen"/>ning the enemies quarters.</p>
+               <p>About 7 at night, the Army advanced ſomewhat neerer, and divers ſtrong Guards both of Horſe and Foot were placed within twice musket ſhot of the walls, where the Foot intrenched themſelves. And a<g ref="char:EOLhyphen"/>bout 5 in the morning, the beſieged diſcovered us, who drawing neerer to each other, ſaid, <hi>they would give us a dinner to welcome us into</hi> Ireland; and indeed they were very circumſpect in keeping of their word, for between 11 and 12 they gave us a viſit, ſallying forth with a conſiderable party of Horſe, and lining the obſcure places with many hundreds of foot, but failed in their promiſe; for upon their firſt charg againſt one of our horſe-guards, they were ſo gallantly received, that they
+<pb n="3" facs="tcp:165410:4"/>
+                  <!-- PDF PAGE 70 -->ſoon quitted the place, our horſe purſued them with<g ref="char:EOLhyphen"/>in musket ſhot of their works, receiving a great volley from their Ambuſcado, in which we loſt 4 men, and 7 horſe; of the enemy kild and taken 13. The next morning being <hi>Munday</hi> they attempted another ſally, but not daring to put it in execution, retreated in a<g ref="char:EOLhyphen"/>gain without action, remaining all day very ſilent, till the Curtain of the moſt high Canopy began to expell and darken the ſplendor of <hi>Sols</hi> beauty, who even at the cloſe of the day upon the relieving our guards, gave us a volley both with great and round ſhot, which grazed and did no execution.</p>
+               <p>On <hi>Tueſday</hi> being the 11. inſtant, about break of the day, we received a new allarum from theſe troubled ſpirits, who (upon an unexpected ſalley) ſuddenly fell upon Col. <hi>Hewſons</hi> foot guard, but were repulſed, and the loſſe equally ballanced.</p>
+               <p>On <hi>Wedneſday</hi> being the 12. inſtant, Lieu. col. <hi>Aſhton</hi> (a great Papiſt, and Nephew to the Governour) about two of the clock in the morning made a very deſpe<g ref="char:EOLhyphen"/>rate ſalley upon two of our foot-guards, with 500. Iriſh, which by reaſon of the ſudden ſurprizall of our Perdews, and Centinels, cauſed great difficulties to in<g ref="char:EOLhyphen"/>tervene, yet notwithſtanding, the Wings of providence ſeeming as a great Bulwark to preſerve and defend us, our men received their furious onſet, but being over<g ref="char:EOLhyphen"/>powred, the Vau-guard retreated to the next, and bo<g ref="char:EOLhyphen"/>dying, advanced to the other ingaged, fell upon the <hi>Iriſh</hi> killed 40, took 20 priſoners, and forced the reſt to a diſhonorable retreat, with the loſs of ten; beſides thoſe in the former engagements, priſoners exchangd were equall, about 50. above 100 killed and wounded, wher<g ref="char:EOLhyphen"/>of on our part 30.</p>
+               <closer>
+                  <dateline>
+                     <hi>From the Siege at Tredah</hi> 
+                     <date>
+                        <hi>Sept.</hi> 13. 1649.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:165410:5"/>
+               <!-- PDF PAGE 71 -->
+               <head>Other Letters from Ireland, purport the further en<g ref="char:EOLhyphen"/>gagement of the two Armies.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VPon the advance of the Lord Governour <hi>Crom<g ref="char:EOLhyphen"/>well</hi> horſe towards <hi>Trim,</hi> great was the prepara<g ref="char:EOLhyphen"/>tion of the Marq. of <hi>Ormond,</hi> and the Lord <hi>Inchiquin</hi> to receive him, and upon his neer approach with the Van, a ſelected party were drawn forth to repreſent the Royall ſalutation (as they call'd it) and according<g ref="char:EOLhyphen"/>ly the Lord <hi>Inchiquin</hi> had the honour and conduct of leading thoſe vanting <hi>Troops,</hi> who no ſooner had march<g ref="char:EOLunhyphen"/>ed four miles from the town, but a diſcovery were made of a great Body of the Parl. horſe; whereupon he drew out a Forlorn conſiſting of two hundred horſe, commanded by Lieutenant Colonell <hi>Gerrard,</hi> who ad<g ref="char:EOLhyphen"/>vanced about Musket ſhot from the Body, the reſt marching after.</p>
+               <p>The Parliaments forces ſeeing this, immediatly ec|'d choforth a great deal of alacrity to diſpute an en<g ref="char:EOLhyphen"/>gagement, drawing out a Forlorn likewiſe, and advan<g ref="char:EOLhyphen"/>cing towards them; inſomuch, that after an hours rallying, and wheeling for wind and ground, both bo<g ref="char:EOLhyphen"/>dies had embattail'd themſelves in a well-diſciplin'd poſture for the receiving of each others charge with the moſt advantage and ſafety.</p>
+               <p>And after ſome ſhort time ſpent in conſultation by the Officers, the Trumpets ſounded, and both parties
+<pb n="5" facs="tcp:165410:5"/>
+                  <!-- PDF PAGE 71 -->joyned battail, a moſt violent and deſperate charge be<g ref="char:EOLhyphen"/>ing given to each other at the firſt on ſet, during which conflict, ſharp and cruell was the action, each man ſtriving for Conqueſt, and endeavouring to become maſter of the field; but the victory ſeemed dubious a long time, untill by main force; the enemies left wing were diſordered and put to a retreat, which the right wing, and the Center-body ſeeing (for they were divi<g ref="char:EOLhyphen"/>ded into three bodies) began to decline farther engage<g ref="char:EOLhyphen"/>ment, endeavouring an honourable retreat, but the L. Governours horſe falling in with them, upon their wheeling off, divers of them were killed and taken pri<g ref="char:EOLhyphen"/>ſoners, the reſt received ſanctuary neer a ſpacious bog, where they rallyed, and by the comming in of a freſh Reſerve of three Regiments of horſe, commanded by Colonell <hi>Steward,</hi> Colonell <hi>Cotton,</hi> and Collonell <hi>Cun<g ref="char:EOLhyphen"/>ningham,</hi> the Lord <hi>Inchiquin</hi> attempted a ſecond On<g ref="char:EOLhyphen"/>ſet againſt the Lord Governours forces, who finding themſelves to be both overpowred and unfitting for an ſecond engagement, made an honourable retreat with the loſſe of thirty men, the enemy not daring to em<g ref="char:EOLhyphen"/>brace purſuit for a mile together, whoſe loſſe we hear was exceeding great in the firſt engagement, by eſti<g ref="char:EOLhyphen"/>mation at leaſt three hundred.</p>
+               <p>Since which time they wholly decline engagement, and dare not ſtand a charge, unleſſe at a place of great advantage; many of the Engliſh Horſe under the con<g ref="char:EOLhyphen"/>duct of the Lord <hi>Inchiquin</hi> deſert him dayly, and come in to the Lord Governour, who ſolemnly proteſt and declare to be true to the Engliſh Intereſt, and to aſſiſt his Lordſhip, in the defence of the Parl. of <hi>England,</hi> with their lives and fortunes.</p>
+               <pb n="6" facs="tcp:165410:6"/>
+               <!-- PDF PAGE 72 -->
+               <p>By Letters further from the Siege at <hi>Tredah</hi> in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> thus: The Marq. of <hi>Ormond</hi> hath exceedingly victuald and ſtrengthned this place, and all other Gar<g ref="char:EOLhyphen"/>riſons adjacent, moſt of the Foot being quartered there at preſent, but hath a very conſiderable Party in the field, which they call the flying Army, conſiſting of three thouſand horſe, three thouſand Iriſh Foot-bog<g ref="char:EOLhyphen"/>gers, and fifteen hundred Dragoons; all which are wel mounted and compleatly arm'd, men reſolute &amp; well diſciplin'd, and as many affirm, not inferiour to the greateſt Sons of <hi>Chivalry</hi> in <hi>Europe;</hi> yet notwithſtan<g ref="char:EOLhyphen"/>ding, the Engliſh renowned Heroes hath challenged them to a field, promiſing fair play, and to equallize them in number; but they decline engagement, and wil not fight them, unleſſe forſt. We hear that the Lord Lieutenant is advanced with a conſiderable party of horſe and foot to <hi>Dundalk,</hi> and hath beſiegd the ſame threatning a ſtorm, if they do not ſpeedily ſurrender; which they deny; the Lord Lieut. hath as ſtubborn an enemy to deal withall there, as at <hi>Tredah,</hi> ſome affirm<g ref="char:EOLhyphen"/>ing that they have made a deſperate ſalley, and diſpu<g ref="char:EOLhyphen"/>ted a ſharp conflict, in which many loſt their lives, but ſoon after the Lord Governour ſtormd a Fort, and at his gaining thereof, took and killed above four hun<g ref="char:EOLhyphen"/>dred priſoners, 6 pieces of Ordnance, 2 Cariages, great ſtore of arms and ammunition.</p>
+               <p>The great Engineer Col. <hi>Aſhton</hi> (its ſaid) hath ſtu<g ref="char:EOLhyphen"/>died a new ſtratagem of War, for the taking off either leg or arm, the Engine runs upon three wheels, and is to be planted both at Gates or Breaches upon any at<g ref="char:EOLhyphen"/>tempt or ſtorm.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>J. T.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
